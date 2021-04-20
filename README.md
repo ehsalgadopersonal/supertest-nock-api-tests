@@ -1,3 +1,5 @@
 ### API Tests with SuperTest and Nock
 
-Run `npm run test`
+To start run `npm start`
+
+To run tests use `npm run test`
